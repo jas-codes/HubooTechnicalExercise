@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HubooTechnicalExercise
+/HTETests/bin/Debug/net6.0
+/HTETests/obj
+/HubooTechnicalExercise/bin/Debug/net6.0
+/HubooTechnicalExercise/obj
